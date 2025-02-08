@@ -7,7 +7,4 @@
 	<property>	metallicGlossMap
 		<Texture>	PnFMods/HLV_Fubuki_Shinonome_Mod/JSD706_Shinonome/ship/JSD013_Fubuki_1942_mg.dds	</Texture>
 	</property>
-	<property>	normalMap
-		<Texture>	PnFMods/HLV_Fubuki_Shinonome_Mod/JSD706_Shinonome/ship/JSD013_Fubuki_1942_n.dds	</Texture>
-	</property>
 </JSD013_Fubuki_1942_wire.mfm>
